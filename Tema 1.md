@@ -34,3 +34,25 @@ __Memoria__: Aquí se almacenan los datos y las instrucciones. Existen dos tipos
 1. __Memoria central__: Actúa con la mayor velocidad y está ligada directamente a las unidades más rápidas del ordenador (UC y ALU). Para que un programa funcione debe estar cargado en la unidad memoria central. La memoria está dividida en posiciones de un determinado número de bits. Para leer o escribir una información es necesario dar dicha posición. Hay dos zonas: La ROM (se puede leer y es permanente) y la RAM (se puede leer y escribir, pero es volátil).
 
 ![memoria_principal](img/memoriappal.jpg)
+
+2. __Memoria externa__: Se usan ya que la memoria central no tiene gran capacidad para almacenar información. Se usan discos, discos ópticos, cintas magnéticas, etc. La información guardada permanece indefinidamente hasta que el usuario la borre. 
+
+![hdd](img/hdd.png)
+
+__Unidad aritmético-lógica (ALU)__: Este componente se encarga de operar de forma aritmética (operaciones matemáticas básicas) y de forma lógica (comparaciones, álgebra booleana).
+
+__Unidad de control (UC)__: Detecta señales de las distintas unidades, indicando su situación. Capta todas las instrucciones de un programa y genera de acuerdo con la instrucción señales de control para todas las unidades, controlando así todas las operaciones que implican la ejecución de la instrucción. Por ejemplo: Si hay que sumar, indica a la ALU que sume los datos y a la memoria que guarde el resultado. 
+
+Otra cosa a tener en cuenta es que cada unidad debe estar sincronizada con las otras. La UC tiene un reloj generador de pulsos que sincroniza todas las operaciones del ordenador.  El periodo de esta señal se denomina __tiempo de ciclo__ y se expresa en nanosegundos. La frecuencia del reloj medida en Megahercios (Mhz) es un parámetro que determina en parte la velocidad del funcionamiento del ordenador. 
+```
+Una instrucción suele ocupar 1 o varios ciclos de reloj.
+```
+Otro factor que influye en la velocidad de un computador es el __ancho de banda__, que representa la cantidad de información transferida por segundo entre una unidad y otra. 
+
+El byte es una unidad de información relativamente pequeña para los cálculos que realiza la ALU, por lo que se utiliza una unidad superior que se denomina __palabra__, que está formada por un número entero de bytes (1, 2, 4, 8, 16...) y representa a los datos con los que opera la ALU o a las unidades de información que se transfieren entre la memoria principal y la CPU. La longitud de la palabra coincide con el número de bits que se transfieren entre las unidades del computador central. Suele ser de 32 o 64 bits. 
+
+La __CPU__ (unión entre la UC y la ALU) contiene en su interior elementos para memorizar temporalmente la información correspondiente a una palabra. Estos elementos se denominan registros. Ej.: cuando la ALU va a realizar una suma, los datos con los que va a operar se guardan temporalmente en dos registros y el resultado en un tercero, que suele ser uno de los dos anteriores
+
+En definitva, la potencia de un ordenador está determinada por el __tiempo de ciclo__, el __ancho de banda__ y la __capacidad de memoria__.
+
+
