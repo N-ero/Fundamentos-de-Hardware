@@ -1,4 +1,4 @@
-# Tema 1: El funcionamiento del equipo informático
+# Tema 1: El funcionamiento del equipo informático.
 ```
 Un equipo informático es un conjunto de software y hardware que se coordinan para el tratamiento automático de la información.
 ```
@@ -8,7 +8,7 @@ Entre el hardware y el software se encuentra una aplicación especial que hace d
 
 Es entonces, cuando se deduce que la ciencia informática se sustenta en tres bases: el __hardware__, el __software__ y el __elemento humano__.
 
-## Arquitectura de Von Neumann
+## Arquitectura de Von Neumann.
 ```
 La arquitectura de un ordenador define su comportamiento funcional.
 ```
@@ -23,7 +23,7 @@ En este tipo de arquitectura vemos partes importantes:
 * La unidad aritmético-lógica (ALU).
 * La unidad de control (UC). 
 
-## Componentes importantes de la arquitectura de Von Neumann
+## Componentes importantes de la arquitectura de Von Neumann.
 
 __Dispositivo de entrada y salida__: Es por donde se introducen los datos e instrucciones en el ordenador. En estas unidades se transforman las instrucciones de entrada en señales binarias y permiten mostrar el resultado del tratamiento automático de la información de vuelta al usuario. Un ordenador puede tener varios dispositivos de e/s, como por ejemplo, __teclados__, __monitores__, etc.
 
@@ -55,4 +55,9 @@ La __CPU__ (unión entre la UC y la ALU) contiene en su interior elementos para 
 
 En definitva, la potencia de un ordenador está determinada por el __tiempo de ciclo__, el __ancho de banda__ y la __capacidad de memoria__.
 
+## Funcionamiento extendido de los elementos centrales de un ordenador.
+
+__ALU__: Como ya se mencionó, en la unidad aritmético-lógica se hacen operaciones aritméticas y lógicas. Para comunicarse con otras unidades utilizan el __bus de datos__ y para realizar sus operaciones necesitan los siguientes elementos:
+1. __Registro de entrada__: Almacena los datos y operandos de las instrucciones antes de que se operen. También se emplea para almacenar temporalmente los resultados intermedios de operaciones.
+2. __Registro acumulador__: Almacena los resultados de las operaciones. Está conectada con los registros de entrada para concatenar operaciones. Tiene conexión directa con el bus de datos para el envío de los resultados a la memoria central o a la unidad de control. 
 
