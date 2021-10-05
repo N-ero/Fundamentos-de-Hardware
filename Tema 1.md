@@ -64,4 +64,9 @@ __ALU__: Como ya se mencionó, en la unidad aritmético-lógica se hacen operaci
 
 La ALU tiene una entrada de órdenes por donde se le indica la operación a realizar sobre los registros de entrada.
 
-![alu](img/ALU.png)
+![alu](img/alu.PNG)
+
+__UC__: Su función es la de monitorear y controlar el funcionamiento de todo el ordenador, dirigiendo toda la información a las unidades correspondientes en el momento preciso y dando las órdenes necesarias para tratar dichas operaciones. Para realizar su función utiliza los siguientes elementos:
+
+1. __Contador de programa (CP)__: Contiene la dirección de memoria de la siguiente instrucción a ejecutar. Al iniciar la ejecución de un programa toma dirección de su primera instrucción. Incrementará su valor a uno cuando se termine una instrucción salvo cuando ésta sea de salto a otra, en cuyo caso tomará la dirección de la instrucción que se tenga que ejecutar a continuación.
+2. __Registro de instrucción (RI)__: 
