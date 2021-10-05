@@ -60,4 +60,8 @@ En definitva, la potencia de un ordenador está determinada por el __tiempo de c
 __ALU__: Como ya se mencionó, en la unidad aritmético-lógica se hacen operaciones aritméticas y lógicas. Para comunicarse con otras unidades utilizan el __bus de datos__ y para realizar sus operaciones necesitan los siguientes elementos:
 1. __Registro de entrada__: Almacena los datos y operandos de las instrucciones antes de que se operen. También se emplea para almacenar temporalmente los resultados intermedios de operaciones.
 2. __Registro acumulador__: Almacena los resultados de las operaciones. Está conectada con los registros de entrada para concatenar operaciones. Tiene conexión directa con el bus de datos para el envío de los resultados a la memoria central o a la unidad de control. 
+3. __Registro de estado__: Guarda condiciones de la última operación para tener en cuenta en posteriores (errores, etc.).
 
+La ALU tiene una entrada de órdenes por donde se le indica la operación a realizar sobre los registros de entrada.
+
+![alu](img/ALU.png)
