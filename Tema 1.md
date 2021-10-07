@@ -88,9 +88,9 @@ __Bus del sistema__: Son los circuitos encargados del intercambio de informació
 
 ![](img/bus.png)
 
-1.__Líneas de Datos__: Se utilizan para la transferencia de datos entre las distintas unidades funcionales.
-2.__Líneas de Control__: Se transfieren órdenes procedentes de la unidad de control a las otras unidades.
-3.__Líneas de Dirección__: COntiene la dirección del destino al que van dirigidos los datos que se están transmitiendo por las líneas de datos.
+1. __Líneas de Datos__: Se utilizan para la transferencia de datos entre las distintas unidades funcionales.
+2. __Líneas de Control__: Se transfieren órdenes procedentes de la unidad de control a las otras unidades.
+3. __Líneas de Dirección__: Contiene la dirección del destino al que van dirigidos los datos que se están transmitiendo por las líneas de datos.
 
 ## Periféricos
 
