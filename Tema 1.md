@@ -83,3 +83,15 @@ La memoria central tiene asociados los siguientes dispositivos:
 3. __Selector de memoria (SM)__: Es un dispositivo que se activa cada vez que hay una orden de lectura o escritura, conectando la celda de memoria propuesta por el RDM con el RIM, y posibilita la transferencia de datos en un sentido u otro.
 
 En un ordenador normal la memoria principal es la RAM. Cada vez la capacidad de almacenamiento aumenta a medida que pasa el tiempo. Sin embargo, aunque la capacidad real de la memoria es reducida, se ha conseguido que sea mayor de lo esperado gracias a la __memoria virtual__. Esta memoria usa la secundaria para intercambiar la información y expandir la memoria central. DE esta forma se consigue que la información almacenada en la memoria secundaria esté disponible como si estuviera en la central, y así puede procesar peogramas que excedan de la capacidad de la memoria central. 
+
+__Bus del sistema__: Son los circuitos encargados del intercambio de información entre la CPU y el resto de unidades del ordenador. Utiliza ĺíneas eléctricas que transmiten en paralelo. Por ejemplo, un bus de 16 bits transfiere esa cantidad de bits entre dos cualesquiera. El siguiente esquema muestra cómo se organiza el bus del sistema:
+
+![](img/bus.png)
+
+1.__Líneas de Datos__: Se utilizan para la transferencia de datos entre las distintas unidades funcionales.
+2.__Líneas de Control__: Se transfieren órdenes procedentes de la unidad de control a las otras unidades.
+3.__Líneas de Dirección__: COntiene la dirección del destino al que van dirigidos los datos que se están transmitiendo por las líneas de datos.
+
+## Periféricos
+
+
