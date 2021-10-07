@@ -76,6 +76,6 @@ __UC__: Su función es la de monitorear y controlar el funcionamiento de todo el
 __Memoria Central__: Almacena todas las instrucciones que necesita el ordenador. Está constituida por muchas celdas o posiciones de memoria enumeradas de forma consecutiva que son capaces de retener mientras exista alimentación, la información depositada. A esta numeración de celdas se le denomina __dirección de memoria__, y mediante esta dirección se puede acceder de forma directa a cualquier otra. 
 La memoria central tiene asociados los siguientes dispositivos:
 
-__Registro de dirección de memoria (RDM)__: Antes de la lectura o escritura se coloca en este registro la dirección de la celda que se va a utilizar en la operación, ya sea para grabar en ella o para extraer datos.
-__Registro de intercambio de memoria (RIM)__: Si es una operación de lectura, este registro contiene el dato de la memoria señalado por el RDM para ser enviado mediante el bus del sistema a la unidad que lo requiere. Si es de escritura, la información procedente de cualquier unidad, es depositada mediante el bus en el RIM para que desde él se transfiera a la posición de memoria indicada por el RDM.
-__Selector de memoria (SM)__: 
+1. __Registro de dirección de memoria (RDM)__: Antes de la lectura o escritura se coloca en este registro la dirección de la celda que se va a utilizar en la operación, ya sea para grabar en ella o para extraer datos.
+2. __Registro de intercambio de memoria (RIM)__: Si es una operación de lectura, este registro contiene el dato de la memoria señalado por el RDM para ser enviado mediante el bus del sistema a la unidad que lo requiere. Si es de escritura, la información procedente de cualquier unidad, es depositada mediante el bus en el RIM para que desde él se transfiera a la posición de memoria indicada por el RDM.
+3. __Selector de memoria (SM)__: 
