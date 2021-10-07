@@ -103,7 +103,7 @@ Los periféricos se organizan en tres tipos:
 
 ![](/img/perifericos.jpg)
 
-#Funcionamiento de algunos periféricos
+## Funcionamiento de algunos periféricos
 
 __Monitores__: Captan las salidas del ordenador. La imagen se constituye por puntos de píxeles. Cuanta mayor resolución, mayor la calidad de imagen. Cada punto está constituido por subpuntos de mezclas de tres colores básicos (rojo, verde y azul). Están los monitores CRT y los TFT (los más actualizados).
 
