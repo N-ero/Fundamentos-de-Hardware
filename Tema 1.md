@@ -94,4 +94,11 @@ __Bus del sistema__: Son los circuitos encargados del intercambio de informació
 
 ## Periféricos
 
+Se denominan periféricos tanto a las unidades o dispositivos a través de los cuales la CPU se comunica con el mundo exterior, como a los sistemas que almacenan o archivan información, sirviendo de memoria auxiliar de la memoria principal.
 
+Los periféricos se organizan en tres tipos:
+1. __Los periféricos de entrada__: En ellos se introducen programas y datos para que se ejecuten. Por ejemplo, un ratón.
+2. __Los periféricos de salida__: En ellos devuelve los resultados de los programas. Por ejemplo, una impresora antigua.
+3. __Los periféricos mixtos o ambifuncionales__: Hacen ambas cosas al mismo tiempo. Por ejemplo, tabletas gráficas, teléfonos móviles, etc.
+
+![](/img/perifericos.jpg)
