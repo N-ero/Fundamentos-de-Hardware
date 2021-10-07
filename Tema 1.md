@@ -114,10 +114,10 @@ __Teclado__: Dispositivo con teclas que corresponden a un carácter, que al puls
 4. Teclas de función: Son aquellas que pueden definirse por el usuario. Suelen asignarse con las teclas F# donde # es un número del 1-12.
 
 __Impresoras__:Escriben la información de salida sobre papel. Se usan para ver los resultados de un programa. Existen diferentes tipos de impresoras:
-    • Impresoras de aguja: Los caracteres se forman por medio de una matriz de puntos creados por agujas o alambres disparados por electroimanes. Las agujas golpean una cinta entintada sobre el papel. Es muy ruidosa y la calidad es muy baja, ya que puntea. Su uso se puede ver en cajeros.
-    • Impresoras térmicas: Similar al anterior, pero se usan con papel termosensible que se ennegrece al aplicar calor. El cabezal tiene una matriz de pequeñas resistencias que se calientan y plasman sobre el papel.
-    • Impresoras de inyección: Emiten chorros de gotas de tinta ionizadas que son desviadas por electrodos. Los caracteres se forman cuando se incrustan en el papel. Las impresoras disponen de tres depósitos de tinta de distinto color, que se mezclan para producir el color deseado. Son las más usadas a nivel doméstico. Calidad aceptable y poco ruidosas.
-    • Impresoras láser: Funciona mediante el contacto desde un tambor con tóner fotoconductor, que mediante un rayo láser forma la imagen sobre el papel. Es de alta calidad y su precio es superior a las de tinta.
+1. Impresoras de aguja: Los caracteres se forman por medio de una matriz de puntos creados por agujas o alambres disparados por electroimanes. Las agujas golpean una cinta entintada sobre el papel. Es muy ruidosa y la calidad es muy baja, ya que puntea. Su uso se puede ver en cajeros.
+2. Impresoras térmicas: Similar al anterior, pero se usan con papel termosensible que se ennegrece al aplicar calor. El cabezal tiene una matriz de pequeñas resistencias que se calientan y plasman sobre el papel.
+3. Impresoras de inyección: Emiten chorros de gotas de tinta ionizadas que son desviadas por electrodos. Los caracteres se forman cuando se incrustan en el papel. Las impresoras disponen de tres depósitos de tinta de distinto color, que se mezclan para producir el color deseado. Son las más usadas a nivel doméstico. Calidad aceptable y poco ruidosas.
+4. Impresoras láser: Funciona mediante el contacto desde un tambor con tóner fotoconductor, que mediante un rayo láser forma la imagen sobre el papel. Es de alta calidad y su precio es superior a las de tinta.
 
 __Detector de caracteres magnetizables (DCM)__: Se utilizan en talones y cheques, y en etiquetas de medicamentos. Sirven para leer caracteres impresos en tinta magnética cuando se pasan por encima de estos.
 
@@ -125,10 +125,10 @@ __Detector de marcas__: Los lectores ópticos de marcas son sistemas que aceptan
 
 __Detector de barras impresas__: Son lectores de códigos de barra. El código de barra se imprime codificado según este criterio en orden:
 
-    1. 2 dígitos: código del estado donde se fabricó el producto.
-    2. 5 dígitos: código de la empresa fabricante.
-    3. 5 dígitos: código del producto.
-    4. 1 dígito: verificación o comprobación de error.
+1. 2 dígitos: código del estado donde se fabricó el producto.
+2. 5 dígitos: código de la empresa fabricante.
+3. 5 dígitos: código del producto.
+4. 1 dígito: verificación o comprobación de error.
 
 __Escáner de imágenes__: Es un sistema para digitalización de documentos basado en la exploración (scanning) de imágenes. Transforma la información en señales eléctricas que van al ordenador o impresora, luego ilumina el documento y capta la luz reflejada convirtiéndola en una señal para validar en el ordenador.
 
@@ -137,5 +137,5 @@ __Unidad sintetizadora de voz__: Estos dispositivos, mediante binario, emulan so
 __Pantallas táctil__: Detectan en qué zona se aplica una presión ya que tienen una red de hilos conductores muy finos. Cuando se presiona se hace que entren en contacto determinados hilos que identifican la zona que ha sido presionada. La aplicación que se está ejecutando en la CPU al obtener los datos de la zona de la pantalla ha sido presionada actúa de una manera u otra.
 
 __Ratón__: Sirven para introducir información gráfica o seleccionar coordenadas de una pantalla. Disponen de uno o más pulsadores que envían órdenes al ordenador. Hay dos tipos de ratones:
-    • Mecánicos: Tienen una bola que gira libremente y mueve rodamientos que transmiten al programa de gestión del ratón la distancia, dirección y sentido del desplazamiento. En desuso.
-    • Ópticos: Contiene un emisor y detector de luz. Los movimientos del ratón se miden por la intensidad de la luz reflejada en la superficie por la que se mueve el ratón. Tienen mayor precisión y existen con y sin cables.
+1. Tienen una bola que gira libremente y mueve rodamientos que transmiten al programa de gestión del ratón la distancia, dirección y sentido del desplazamiento. En desuso.
+2. Ópticos: Contiene un emisor y detector de luz. Los movimientos del ratón se miden por la intensidad de la luz reflejada en la superficie por la que se mueve el ratón. Tienen mayor precisión y existen con y sin cables.
