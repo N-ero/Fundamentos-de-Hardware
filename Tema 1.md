@@ -137,5 +137,5 @@ __Unidad sintetizadora de voz__: Estos dispositivos, mediante binario, emulan so
 __Pantallas táctil__: Detectan en qué zona se aplica una presión ya que tienen una red de hilos conductores muy finos. Cuando se presiona se hace que entren en contacto determinados hilos que identifican la zona que ha sido presionada. La aplicación que se está ejecutando en la CPU al obtener los datos de la zona de la pantalla ha sido presionada actúa de una manera u otra.
 
 __Ratón__: Sirven para introducir información gráfica o seleccionar coordenadas de una pantalla. Disponen de uno o más pulsadores que envían órdenes al ordenador. Hay dos tipos de ratones:
-1. Tienen una bola que gira libremente y mueve rodamientos que transmiten al programa de gestión del ratón la distancia, dirección y sentido del desplazamiento. En desuso.
+1. Analógicos: Tienen una bola que gira libremente y mueve rodamientos que transmiten al programa de gestión del ratón la distancia, dirección y sentido del desplazamiento. En desuso.
 2. Ópticos: Contiene un emisor y detector de luz. Los movimientos del ratón se miden por la intensidad de la luz reflejada en la superficie por la que se mueve el ratón. Tienen mayor precisión y existen con y sin cables.
