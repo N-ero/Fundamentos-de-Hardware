@@ -72,7 +72,9 @@ __UC__: Su función es la de monitorear y controlar el funcionamiento de todo el
 2. __Registro de instrucción (RI)__: Contiene la instrucción en ejecución en ese momento. Lleva el código de operación y en algunos casos los operandos o las direcciones de memoria de los mismos.
 3. __Reloj (R)__: Proporciona una sucesión de ciclos a intervalos constantes que marca el ritmo de comienzo de cada instrucción.
 4. __Secuenciador__: Genera órdenes elementales (microórdenes) que, sincronizadas por los impulsos del reloj, hacen que se vaya ejecutando poco a poco la instrucción que está cargada en el RI.
+
 ![](/img/UC.jpg)
+
 __Memoria Central__: Almacena todas las instrucciones que necesita el ordenador. Está constituida por muchas celdas o posiciones de memoria enumeradas de forma consecutiva que son capaces de retener mientras exista alimentación, la información depositada. A esta numeración de celdas se le denomina __dirección de memoria__, y mediante esta dirección se puede acceder de forma directa a cualquier otra. 
 La memoria central tiene asociados los siguientes dispositivos:
 
