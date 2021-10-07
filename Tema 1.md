@@ -78,4 +78,4 @@ La memoria central tiene asociados los siguientes dispositivos:
 
 1. __Registro de dirección de memoria (RDM)__: Antes de la lectura o escritura se coloca en este registro la dirección de la celda que se va a utilizar en la operación, ya sea para grabar en ella o para extraer datos.
 2. __Registro de intercambio de memoria (RIM)__: Si es una operación de lectura, este registro contiene el dato de la memoria señalado por el RDM para ser enviado mediante el bus del sistema a la unidad que lo requiere. Si es de escritura, la información procedente de cualquier unidad, es depositada mediante el bus en el RIM para que desde él se transfiera a la posición de memoria indicada por el RDM.
-3. __Selector de memoria (SM)__: 
+3. __Selector de memoria (SM)__: Es un dispositivo que se activa cada vez que hay una orden de lectura o escritura, conectando la celda de memoria propuesta por el RDM con el RIM, y posibilita la transferencia de datos en un sentido u otro.
