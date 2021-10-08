@@ -139,3 +139,45 @@ __Pantallas táctil__: Detectan en qué zona se aplica una presión ya que tiene
 __Ratón__: Sirven para introducir información gráfica o seleccionar coordenadas de una pantalla. Disponen de uno o más pulsadores que envían órdenes al ordenador. Hay dos tipos de ratones:
 1. Analógicos: Tienen una bola que gira libremente y mueve rodamientos que transmiten al programa de gestión del ratón la distancia, dirección y sentido del desplazamiento. En desuso.
 2. Ópticos: Contiene un emisor y detector de luz. Los movimientos del ratón se miden por la intensidad de la luz reflejada en la superficie por la que se mueve el ratón. Tienen mayor precisión y existen con y sin cables.
+
+__Otros tipos de periféricos__: Existen otros tipos de periféricos como:
+1. Plotters.
+2. Lectores de tarjeta.
+3. Terminas Punto de Venta (TPV).
+
+## Interfaces 
+
+~~~
+La interfaz de usuario es el medio con que el usuario puede comunicarse con un equipo informático, y abarca todos los puntos de contacto entre ambas partes, siendo normalmente fácil de utilizar.
+~~~
+
+En las interfaces podemos ver ventanas, botones, menús, sonidos, y en general, todo tipo de facilidades para acomodar la interacción humano-máquina. Las interfaces suelen diseñarse con un diseño intuitivo pues es crítico para el manejo del equipo. Otras no son tan intuitivas, como por ejemplo aquellas de línea de órdenes (CLI), típico de shell de Unix. Éstas, para los más familiarizados, suele ser la mejor opción, ya que los comandos avanzados tienen un mayor acceso a la configuración del equipo. 
+
+__Tipos de interfaces de usuario__
+
+Obtenemos dos tipos de interfaces de usuario, que atienden a según la forma de interacción y a su construcción:
+
+* Según la forma de interactuar del usuario
+    
+    1. __Interfaces alfanuméricas__.
+    2. __Interfaces gráficas de usuario__.
+    3. __Interfaces táctiles__.
+* Según su construcción       
+        
+    1. __Interfaces de hardware: Conjunto de dispositivos que permiten la comunicación__.
+    2. __Interfaces de software: Programas que facilitan la comunicación__. 
+
+__Funciones principales__
+
+Sus principales funciones son:
+
+* Puesta en marcha y apagado.
+* Control de funciones.
+* Manipulación de archivos y directorios.
+* Herramientas de desarrollo de aplicaciones.
+* Comunicación intersistemas.
+* Información de estados.
+* Configuraciones de interfaz y entorno.
+* Intercambio de datos.
+* Control de acceso.
+* Sistema de ayuda interactivo.
