@@ -167,6 +167,10 @@ Obtenemos dos tipos de interfaces de usuario, que atienden a según la forma de 
     1. __Interfaces de hardware: Conjunto de dispositivos que permiten la comunicación__.
     2. __Interfaces de software: Programas que facilitan la comunicación__. 
 
+![](img/CLI.png)
+
+_Interfaz CLI._
+
 __Funciones principales__
 
 Sus principales funciones son:
