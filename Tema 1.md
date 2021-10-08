@@ -144,7 +144,16 @@ __Otros tipos de periféricos__: Existen otros tipos de periféricos como:
 1. Plotters.
 2. Lectores de tarjeta.
 3. Terminas Punto de Venta (TPV).
+## Dispositivos de memoria auxiliar
+~~~
+Son aquellos periféricos que almacenan permanentemente la información.
+~~~
+Tratan de solventar las deficiencias de la memoria principal que son:
+1. Baja capacidad de almacenamiento.
+2. Volatibilidad de la información cargada en la RAM. 
+3. Coste.
 
+Para procesar la información contenida en un sistema de memoria auxiliar hay que pasarla primero a la memoria central. El propio sistema ofrece software para efectuar la transferencia, que ocurre a una alta velocidad. 
 ## Interfaces 
 
 ~~~
