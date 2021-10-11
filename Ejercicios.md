@@ -61,5 +61,10 @@ Los siguientes ejercicios son simplemente un complemento para facilitar los cono
     <li><b>CPU</b>: Es aquel dispositivo que controla, capta y dirige todas las instrucciones de los distintos dispositivos hacia todos los otros dispositivos, y a su vez, también genera y procesa todas las instrucciones que son aritméticas y lógicas. Se podría decir que es el cerebro del equipo informático, ya que es quien capta, procesa, y dirige todos los datos al resto de componentes. La CPU está formada por la Unidad de Control y por la Unidad aritmético-lógica </li>
     </ul>
     <img src="img/Arquitectura.png" alt="Esquema"></img>
+</details>
 
+5. Explica qué son los dispositivos de Entrada y Salida (E/S).
+<details>
+    <summary>Spoiler!</summary>
+    Es por donde se introducen los datos e instrucciones en el ordenador. En estas unidades se transforman las instrucciones de entrada (Dispositivos de entrada) en señales binarias y permiten mostrar el resultado del tratamiento automático de la información de vuelta al usuario (Dispositivos de salida). Un ordenador puede tener varios dispositivos de E/S, como por ejemplo, teclados, monitores, etc
 </details>
